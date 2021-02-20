@@ -52,8 +52,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\TimeCaptureDeltaTime.cs" />
      <Compile Include="Assets\Scripts\GameObjectAnimation.cs" />
+     <Compile Include="Assets\Scripts\TimeCaptureDeltaTime.cs" />
+     <Compile Include="Assets\Scripts\TimeDeltaTime.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/2020.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
