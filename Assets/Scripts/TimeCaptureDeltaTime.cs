@@ -22,6 +22,7 @@ public class TimeCaptureDeltaTime : MonoBehaviour
 
     private void Update()
     {
+        
         // Append filename to folder name (format is '0005 shot.png"')
         var name = string.Format("{0}/{1:D04} shot.png", folder, Time.frameCount);
 
