@@ -62,6 +62,9 @@
      <Compile Include="Assets\Scripts\TimeFixedUnscaledDeltaTime.cs" />
      <Compile Include="Assets\Scripts\TimeCaptureDeltaTime.cs" />
      <Compile Include="Assets\Scripts\TimeFixedUnscaledTimeAsDouble.cs" />
+     <Compile Include="Assets\Scripts\TimeFrameCount.cs" />
+     <Compile Include="Assets\Scripts\TimeInFixedTimeStep.cs" />
+     <Compile Include="Assets\Scripts\TimeMaximumDeltaTime.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/2020.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
