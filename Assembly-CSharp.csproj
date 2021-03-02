@@ -55,16 +55,18 @@
      <Compile Include="Assets\Scripts\TimeFixedDeltaTime.cs" />
      <Compile Include="Assets\Scripts\GameObjectAnimation.cs" />
      <Compile Include="Assets\Scripts\TimeCaptureFrameRate.cs" />
+     <Compile Include="Assets\Scripts\TimeMaximumDeltaTime.cs" />
+     <Compile Include="Assets\Scripts\TimeInFixedTimeStep.cs" />
      <Compile Include="Assets\Scripts\TimeFixedUnscaledTime.cs" />
      <Compile Include="Assets\Scripts\TimeFixedTimeAsDouble.cs" />
      <Compile Include="Assets\Scripts\TimeFixedTime.cs" />
      <Compile Include="Assets\Scripts\TimeDeltaTime.cs" />
      <Compile Include="Assets\Scripts\TimeFixedUnscaledDeltaTime.cs" />
-     <Compile Include="Assets\Scripts\TimeCaptureDeltaTime.cs" />
      <Compile Include="Assets\Scripts\TimeFixedUnscaledTimeAsDouble.cs" />
      <Compile Include="Assets\Scripts\TimeFrameCount.cs" />
-     <Compile Include="Assets\Scripts\TimeInFixedTimeStep.cs" />
-     <Compile Include="Assets\Scripts\TimeMaximumDeltaTime.cs" />
+     <Compile Include="Assets\Scripts\TimeCaptureDeltaTime.cs" />
+     <Compile Include="Assets\Scripts\TimeMaximumParticleDeltaTime.cs" />
+     <Compile Include="Assets\Scripts\TimeRealtimeSinceStartup.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/2020.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
